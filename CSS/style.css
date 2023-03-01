@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Roboto:wght@300&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: "Roboto";
+	font-size: 17px;
+	margin: 0px;
+}
+h1, h2 {
+	font-family: "Time New Roman";
+	font-weight: bold;
+
+}
+a {
+	text-decoration: none;
+}
